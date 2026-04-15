@@ -1,1 +1,121 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8400e4fbfb7d77b9ba77cca6ceb8848cdc243d622b78ea0f73ea3fb07bc33053"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "f04714457e1a52dba9694361b61290f2e5ba0a2e31925f5e09c04e783025d0ec"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "f1f41acef991941ae0c7a84831570253e51c7f6dfd4f321822642a002ae95172"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "0e1c326aefefd2ad9289bad117c722732a20fbd8611e16b239402e607c21566c"
+metafile = true
+
+[[files]]
+file = "mods/compass-cleaner.pw.toml"
+hash = "df928d26be306a88f033cacd2a4a33664b92d2122a5f2f96b64182442413aa3b"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "cc7892b7ab6a0808433cb2410f82f72e6f196b937d3089d1241580338aad759d"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "22acd8f230ae51c236037b99d0cd9c32adc629bf0b0223b1b4972584ac3c9f52"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f03cdebe327e6e579f04ed7a2563a834d5215e97c94b27d4a23aedd174052aaa"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "cf0f570e959006a05f5cf743d7699de35385b9b0ffa6bc602356815a8a2e0481"
+metafile = true
+
+[[files]]
+file = "mods/jline4mcdsrv.pw.toml"
+hash = "2304d9cde03bb0fb27735617754bd56ce1037f7d2c707e3a094f03efb248f75b"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "99798651c76be5fe7c96af38cc66d83407efd488a668e874e17d8d947e963ef7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "4617339e66ab8eac761c5730521d1f869385151d0bb383e45f230c78723adcd7"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "1a378ea2e1888ac4e49db31eda898e46fb691a0ce3c6038e774caae86e586631"
+metafile = true
+
+[[files]]
+file = "mods/no-feather-trample.pw.toml"
+hash = "d3db0a804a2f7ee5a964b5dffdd1f97848df892a75621e67bf20736614fa2121"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "0fd47492ed121b6f165b6e33015a5cb6cddabf15112d893bb793048e26bf13fd"
+metafile = true
+
+[[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "5edbd34a5c4d980b3ad3e860f13c4a047a482fefc854aba58ed3e94e5608796e"
+metafile = true
+
+[[files]]
+file = "mods/respect-my-trims.pw.toml"
+hash = "e93c5e4183010d0923e41285cdecd33135d5b7ec7f28eea6e1bc0d9b22de3872"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "e97395d1c3354bfadde21bd281d449d59b93d38f789911e454f08723fac889b5"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "f19a5337eb3ac05bef5a98d4f930e89b7f760eab135a70d2df116d0e10f064ad"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "1d06c1fa6e8637872d4ae118a33ba191714d707334c5985470d16d6323d0e028"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "36dd604f406f927d668ed47c14f1a3ccf217d986e023389d522dba6639c9db9b"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "8d70fc280d3383cf42bb280c460223698bbed110be3d9c877709de429723af27"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "7c2075ca8ea327e6f53b760696ab11232dd9c3eb3ba776c61e19ebc9ed08ed32"
+metafile = true
+
+[[files]]
+file = "mods/vaulted-end.pw.toml"
+hash = "16a0bcf3d43c23e75a68b44e3099f98affe5f7acfede41cfbd69dedcd59cd39d"
+metafile = true

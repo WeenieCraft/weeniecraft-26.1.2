@@ -1,0 +1,13 @@
+name = "Vanilla Permissions"
+filename = "vanilla-permissions-0.3.5+26.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/T76gKrsg/vanilla-permissions-0.3.5%2B26.1.jar"
+hash-format = "sha1"
+hash = "a5b02381da2e18aa6c2905ddc33ddd790ce7794d"
+
+[update]
+[update.modrinth]
+mod-id = "fdZkP5Bb"
+version = "T76gKrsg"

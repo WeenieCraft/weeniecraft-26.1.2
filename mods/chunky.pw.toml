@@ -1,0 +1,13 @@
+name = "Chunky"
+filename = "Chunky-Fabric-1.4.58.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fALzjamp/versions/DCgX52a5/Chunky-Fabric-1.4.58.jar"
+hash-format = "sha1"
+hash = "b9f543978ce12507be369320b6bf5bb7c9e342cc"
+
+[update]
+[update.modrinth]
+mod-id = "fALzjamp"
+version = "DCgX52a5"
