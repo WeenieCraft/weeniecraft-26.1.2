@@ -1,0 +1,13 @@
+name = "Pl3xMap"
+filename = "Pl3xMap-26.1.2-546.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/34T8oVNY/versions/lIfBwoTp/Pl3xMap-26.1.2-546.jar"
+hash-format = "sha1"
+hash = "ef6228401bc8d3129f9780c11fbc21b0a5de6858"
+
+[update]
+[update.modrinth]
+mod-id = "34T8oVNY"
+version = "lIfBwoTp"

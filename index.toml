@@ -26,6 +26,11 @@ hash = "df928d26be306a88f033cacd2a4a33664b92d2122a5f2f96b64182442413aa3b"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "bcc06fb712b2fbc9d508e3150951de45e892b00b88f6df99c007a878bbd8d8f0"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "cc7892b7ab6a0808433cb2410f82f72e6f196b937d3089d1241580338aad759d"
 metafile = true
@@ -41,6 +46,11 @@ hash = "f03cdebe327e6e579f04ed7a2563a834d5215e97c94b27d4a23aedd174052aaa"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "23b8044b2fa383d63b6a6cb5cbe5c957b2e0688b8cde6e0dcab004438d91e0a2"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "cf0f570e959006a05f5cf743d7699de35385b9b0ffa6bc602356815a8a2e0481"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/jline4mcdsrv.pw.toml"
 hash = "2304d9cde03bb0fb27735617754bd56ce1037f7d2c707e3a094f03efb248f75b"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "e8764069c83c0c683dc8bb0f3c7e14c47d6456645461809fccd4d1a8807ed1ff"
 metafile = true
 
 [[files]]
@@ -61,6 +76,16 @@ hash = "4617339e66ab8eac761c5730521d1f869385151d0bb383e45f230c78723adcd7"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ab0b87f935828d0c52ebe7904c28eadb5b860171d41d8f76184308a17bb0774b"
+metafile = true
+
+[[files]]
+file = "mods/mastercutter.pw.toml"
+hash = "50974d70699c81ffc7730c356f4b1317e1ef60b8dc176ac2dfdf3aef4e659643"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "1a378ea2e1888ac4e49db31eda898e46fb691a0ce3c6038e774caae86e586631"
 metafile = true
@@ -68,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/no-feather-trample.pw.toml"
 hash = "d3db0a804a2f7ee5a964b5dffdd1f97848df892a75621e67bf20736614fa2121"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "02b95df081aea26c4f7d4db495c111b75677d50050867c39b6ddf6c0a66d7867"
 metafile = true
 
 [[files]]
