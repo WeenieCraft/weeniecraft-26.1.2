@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f04714457e1a52dba9694361b61290f2e5ba0a2e31925f5e09c04e783025d0ec"
+hash = "0f936372aba3cf46beb00dfbcbc547c048417fd6d711ccb3d8cf4d401c7eac2b"
 metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "f1f41acef991941ae0c7a84831570253e51c7f6dfd4f321822642a002ae95172"
+hash = "dc7060edc5b77096f6147700b383c960dd59eaf386bea7c591bbdc2266729eda"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0e1c326aefefd2ad9289bad117c722732a20fbd8611e16b239402e607c21566c"
+hash = "948c50c138e52e592c95e00f33b8f7ba8f9db66a2614a88ba5e50a4fd48e9a26"
 metafile = true
 
 [[files]]
@@ -37,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "cc7892b7ab6a0808433cb2410f82f72e6f196b937d3089d1241580338aad759d"
+hash = "26f18bcf8eaf0165dd9137d1bcad0ad49561e7b7765aa78f095e34534fcd346a"
 metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "22acd8f230ae51c236037b99d0cd9c32adc629bf0b0223b1b4972584ac3c9f52"
+hash = "9d39f5a7d6d797c01da183c3ca834b56e2bef3a53f0136e92b381e2972d712e7"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f03cdebe327e6e579f04ed7a2563a834d5215e97c94b27d4a23aedd174052aaa"
+hash = "d3cfc281b84b894bde369db4f8ff80cfbc174a60694d4cc3b9b13a83047aef71"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "23b8044b2fa383d63b6a6cb5cbe5c957b2e0688b8cde6e0dcab004438d91e0a2"
+hash = "c726eb0c84f342714c473bc2e03530828385cd2b43818bc9c9fff09fcda3c4d0"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cf0f570e959006a05f5cf743d7699de35385b9b0ffa6bc602356815a8a2e0481"
+hash = "a1dcc3fe29a26cd37886717de0050790dc41b9db024b3a03f2fa11a2200f472f"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4617339e66ab8eac761c5730521d1f869385151d0bb383e45f230c78723adcd7"
+hash = "6de53086c373f6f1008e340398e1de54091f1e8397ba7b47f37686f948d6fa66"
 metafile = true
 
 [[files]]
@@ -122,17 +122,17 @@ metafile = true
 
 [[files]]
 file = "mods/pl3xmap.pw.toml"
-hash = "02b95df081aea26c4f7d4db495c111b75677d50050867c39b6ddf6c0a66d7867"
+hash = "951cfaf370aec4579de04c96cbaabe9a25826ec594f865df901eb31eca033292"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "0fd47492ed121b6f165b6e33015a5cb6cddabf15112d893bb793048e26bf13fd"
+hash = "1e3aaccf68c0ddfb848587c34caf6e8c89fc0a86baff5aad1030653f61ab600c"
 metafile = true
 
 [[files]]
 file = "mods/replanting-crops.pw.toml"
-hash = "5edbd34a5c4d980b3ad3e860f13c4a047a482fefc854aba58ed3e94e5608796e"
+hash = "8613a2a2c56b6188449f469a4a38e3b3a0bc3ad36f9b5fb64cbb88c76c6e21d0"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "e97395d1c3354bfadde21bd281d449d59b93d38f789911e454f08723fac889b5"
+hash = "3f8f15e1ea1a7c6276e9ed56dd0c6a14f1b3badc60615d8c2b37e2ee97b2ba64"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "36dd604f406f927d668ed47c14f1a3ccf217d986e023389d522dba6639c9db9b"
+hash = "25005bc5d7debe824a10f1df4ae96327b68ac68317beaac5dba61d84130e0b20"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "8d70fc280d3383cf42bb280c460223698bbed110be3d9c877709de429723af27"
+hash = "206f11d71d3a928efb52018d10b3b01b32f56c5aa04ccce2e5495adc368b0c89"
 metafile = true
 
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
-hash = "7c2075ca8ea327e6f53b760696ab11232dd9c3eb3ba776c61e19ebc9ed08ed32"
+hash = "4256aa8af0855662f7f76609f56bcce3ef9646a34201d195a6b32afab25917aa"
 metafile = true
 
 [[files]]
