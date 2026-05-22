@@ -16,6 +16,11 @@ hash = "f1f41acef991941ae0c7a84831570253e51c7f6dfd4f321822642a002ae95172"
 metafile = true
 
 [[files]]
+file = "mods/cinchs-villager-statues.pw.toml"
+hash = "554286c03bd3ae06bdca9eb3861761f9461bdf5c4a8749b85b3f975c3d98b6e6"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "0e1c326aefefd2ad9289bad117c722732a20fbd8611e16b239402e607c21566c"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "f03cdebe327e6e579f04ed7a2563a834d5215e97c94b27d4a23aedd174052aaa"
+metafile = true
+
+[[files]]
+file = "mods/inventory-management.pw.toml"
+hash = "fd43a9c491907e3a1338cd421a590daedeb07db4d52f83c3117166062d196c7f"
 metafile = true
 
 [[files]]
@@ -83,6 +93,21 @@ metafile = true
 [[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "50974d70699c81ffc7730c356f4b1317e1ef60b8dc176ac2dfdf3aef4e659643"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "19e0406913a4b9ab748fe6b0dd1e8fd7b5ee76faf623d921651795382f90958e"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "df894b7131317e256710c45d362862677ccdecbee9bc5f1da8b5d4da29f67d61"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "c0b607da5ab80848b34bc4bde3f0205a34092f0d99429fd5d4618be50688e392"
 metafile = true
 
 [[files]]
@@ -136,6 +161,11 @@ hash = "36dd604f406f927d668ed47c14f1a3ccf217d986e023389d522dba6639c9db9b"
 metafile = true
 
 [[files]]
+file = "mods/trek.pw.toml"
+hash = "638129c5cb9d28781ebe85f85d7427df91d4ecc0df1a1165becb9f86090f4373"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "8d70fc280d3383cf42bb280c460223698bbed110be3d9c877709de429723af27"
 metafile = true
@@ -148,4 +178,9 @@ metafile = true
 [[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "16a0bcf3d43c23e75a68b44e3099f98affe5f7acfede41cfbd69dedcd59cd39d"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "fec6e0da70f68d5b908abf26932401aef2d08bc7299e5a21f0b8897e0d08b41e"
 metafile = true

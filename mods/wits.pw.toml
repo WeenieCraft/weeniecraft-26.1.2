@@ -1,0 +1,13 @@
+name = "WITS (What Is This Structure?)"
+filename = "wits-1.4.2+26.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/AVo2esap/versions/O4qFUou7/wits-1.4.2%2B26.1-fabric.jar"
+hash-format = "sha1"
+hash = "021a32ea3430cc227387d6e3bca79e483ff4137d"
+
+[update]
+[update.modrinth]
+mod-id = "AVo2esap"
+version = "O4qFUou7"

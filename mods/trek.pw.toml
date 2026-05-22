@@ -1,0 +1,13 @@
+name = "Trek"
+filename = "trek-B0.6.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h2jngREY/versions/O1utQuJh/trek-B0.6.1.1.jar"
+hash-format = "sha1"
+hash = "c8f8c09263b2c14090a3c0ef11d3f7e0616b230c"
+
+[update]
+[update.modrinth]
+mod-id = "h2jngREY"
+version = "O1utQuJh"

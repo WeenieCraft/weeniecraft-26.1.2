@@ -1,0 +1,13 @@
+name = "Inventory Management"
+filename = "inventorymanagement-1.6.1+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/syQGUXdB/inventorymanagement-1.6.1%2B26.1.jar"
+hash-format = "sha1"
+hash = "f35b0a959410e40197c98dd09f84c79a5eccdc84"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "syQGUXdB"
